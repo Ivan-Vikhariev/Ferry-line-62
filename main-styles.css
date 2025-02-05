@@ -1,0 +1,96 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 90vh;
+  width: 100vw;
+  background-color: black;
+  font-family: "Onest", serif;
+  font-style: normal;
+
+}
+
+
+
+h1 {
+  font-family: "Nerko One", Arial, sans-serif;
+  font-weight: initial;
+  font-size: 2.2em;
+}
+
+div.main {
+
+
+  background-image: url("./pictures/faehre-1.jpg");
+  background-size: 100vw;
+  background-repeat: no-repeat;
+
+  font-size: 1.0em;
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  gap: 10px;
+  padding: 120px;
+  height: 100%;
+
+
+
+}
+
+
+
+div.head1 {
+  width: 60%;
+  height: auto;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid rgb(51, 41, 35);
+  background-color: rgba(78, 56, 39, 0.8);
+  color: whitesmoke;
+
+
+}
+
+div.head2 {
+  width: 350px;
+  height: 500px;
+  padding: 15px;
+  border-radius: 10px;
+
+}
+
+
+
+ul {
+  color: whitesmoke;
+  list-style: none;
+  margin: 5px;
+  padding: 7px;
+  font-size: 0.9rem;
+}
+
+
+ul.sub {
+  margin: 22px;
+  padding: 22px;
+}
+
+a:link {
+  color: rgb(255, 197, 37);
+}
+
+a:visited {
+  color: rgb(255, 219, 121);
+}
+
+a:hover {
+  color: rgb(255, 81, 0);
+}
+
+a:active {
+  color: blue;
+}
+
+/*
+
+
+*/
